@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@beefree.io/sdk": "^9.4.1-fix-BEE-10878-types.0",
     "next": "16.0.3",
     "react": "19.2.0",
     "react-dom": "19.2.0"
